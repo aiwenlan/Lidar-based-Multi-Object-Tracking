@@ -8,7 +8,6 @@
 
 ![BEV tracking demo](https://raw.githubusercontent.com/allrivertosea/Lidar-based-Multi-Object-Tracking/main/visualization/output_video.gif)
 
-> 若图片无法加载，可将 `visualization/output_video.gif` 置于本仓库同路径后使用相对路径引用。
 
 ## 功能概览 / Features
 
